@@ -1,7 +1,7 @@
 package com.pageobject.common;
 
 public class Constants {
-    public static String url = "https://companionapp.cyberianconcepts.com/#/home";
-    public static String userName = "iyefremov@cyberiansoft.com";
-    public static String userPassword = "iyefrdim12";
+    public static final String CHROME_DRIVER_PATH = "G:\\Cyberiansoft\\Automation\\JavaProjects\\Tools" +
+            "\\Drivers\\ChromeDriver96\\chromedriver.exe";
+
 }
